@@ -1,8 +1,9 @@
-# refresh-button-in-installer
-Кнопка Обновить Модификаторы в Установщике.
+# Refresh-Button-in-Installer
+Update modifiers button in the installer.
 
-### Совместимость
-- OpenCart 3.0.3.x
+### compatibility
+- OpenCart 3.0.3.x.
 
-## Ссылки
-- [Ресурс на форуме](https://forum.opencart.name/resources/25/)
+## Links
+- [resource on the forum] (https://forum.opencart.name/resources/25/)
+- 

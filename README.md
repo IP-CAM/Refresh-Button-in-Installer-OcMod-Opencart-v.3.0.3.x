@@ -6,4 +6,3 @@ Update modifiers button in the installer.
 
 ## Links
 - [resource on the forum] (https://forum.opencart.name/resources/25/)
-- 
